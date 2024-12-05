@@ -1,7 +1,6 @@
 package com.springboot.devops.controllers;
 
 import com.springboot.devops.entity.User;
-import com.springboot.devops.repository.UserRepository;
 import com.springboot.devops.service.UserService;
 import com.springboot.devops.utils.Utility;
 import org.springframework.beans.factory.annotation.Autowired;
